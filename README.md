@@ -33,6 +33,7 @@ Recently, I’ve been focusing on NLP tasks, exploring how models behave across 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-LLM%20Framework-blue)
 
 **Fields:** Machine Learning, NLP, Optimization
 
