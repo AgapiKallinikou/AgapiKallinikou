@@ -1,5 +1,5 @@
 # Hi there, I'm Agapi Kallinikou 👋
-### Mathematics Student | Aspiring Machine Learning & AI Specialist
+### MSc Student in Artificial Intelligence | Mathematics Graduate | Aspiring ML & AI Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/agapi-kallinikou)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailTO:agapi.kallinikou@gmail.com)
@@ -8,18 +8,16 @@
 
 ## 🧠 About Me
 
-I’m a Mathematics student with a strong interest in Machine Learning and Natural Language Processing. With a solid analytical background, I enjoy approaching problems from both a theoretical and practical perspective — turning ideas into working code and simple data-driven systems.
+I’m a Mathematics graduate currently pursuing an MSc in Artificial Intelligence, with a strong interest in Machine Learning, Deep Learning, and Natural Language Processing. My mathematical background shapes the way I approach problems, combining analytical thinking with practical experimentation and implementation.
 
-Recently, I’ve been focusing on NLP tasks, exploring how models behave across different datasets and how we can evaluate their performance in meaningful ways.
+My recent work has focused on NLP and machine learning projects, exploring model behavior across different datasets, experimenting with different approaches and evaluating performance using appropriate metrics. I’m particularly interested in understanding not only how models perform, but also why they behave the way they do.
 
 ---
 
 ## 🚀 What I'm Currently Doing
 
-- 🔍 Working on an NLP project analyzing political QA pairs (SemEval - Clarity)  
-- 🐍 Building Python projects to strengthen problem-solving and coding skills  
-- 📚 Preparing for graduate studies in AI / Data Science  
-
+- 🧠 Pursuing an MSc in Artificial Intelligence, with a focus on Machine Learning and Deep Learning
+- 💻 Developing Python projects in Machine Learning, Deep Learning, and Data Analysis
 ---
 
 ## 🛠️ Tech Stack
@@ -43,4 +41,3 @@ Recently, I’ve been focusing on NLP tasks, exploring how models behave across 
 
 - Advance in Machine Learning and NLP  
 - Build more complete, real-world ML systems  
-- Pursue a Master's degree in Artificial Intelligence / Data Science
